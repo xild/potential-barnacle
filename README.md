@@ -1,5 +1,8 @@
-# common
+# POTATO
 
-Verifica primeiro char que não se repete em um dado stream.
+# HOW TO
+- mvn clean package
+- cd target/
+- java -jar potential-barnacle-1.0.0.jar $input 
 
-Classe principal: App.
+
