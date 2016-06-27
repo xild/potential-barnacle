@@ -1,4 +1,4 @@
-package br.com.commons;
+package com.github.xild.potential.barnacle;
 
 public interface Stream {
 	public char getNext();

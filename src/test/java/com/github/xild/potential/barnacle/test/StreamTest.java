@@ -1,4 +1,4 @@
-package br.com.commons;
+package com.github.xild.potential.barnacle.test;
 
 import java.util.Arrays;
 import java.util.List;
@@ -7,10 +7,11 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * Classe unitária usando testNG para geração de código
- */
-public class AppTest {
+import com.github.xild.potential.barnacle.App;
+import com.github.xild.potential.barnacle.Stream;
+import com.github.xild.potential.barnacle.StreamImpl;
+
+public class StreamTest {
 
 	static List<Stream> streams;
 
